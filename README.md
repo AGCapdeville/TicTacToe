@@ -1,4 +1,4 @@
-# TicTacToe
+# Tic-Tac-Toe Game, Server & 2 Clients
 
 ### Game Start:
 ![alt text][gamestart]
